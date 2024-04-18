@@ -1,0 +1,15 @@
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/bin/Debug/net7.0/task_manager
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/bin/Debug/net7.0/task_manager.deps.json
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/bin/Debug/net7.0/task_manager.runtimeconfig.json
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/bin/Debug/net7.0/task_manager.dll
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/bin/Debug/net7.0/task_manager.pdb
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/obj/Debug/net7.0/task_manager.csproj.AssemblyReference.cache
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/obj/Debug/net7.0/task_manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/obj/Debug/net7.0/task_manager.AssemblyInfoInputs.cache
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/obj/Debug/net7.0/task_manager.AssemblyInfo.cs
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/obj/Debug/net7.0/task_manager.csproj.CoreCompileInputs.cache
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/obj/Debug/net7.0/task_manager.dll
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/obj/Debug/net7.0/refint/task_manager.dll
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/obj/Debug/net7.0/task_manager.pdb
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/obj/Debug/net7.0/task_manager.genruntimeconfig.cache
+/Users/n0m1n4t3d/Projects/task_manager/task_manager/obj/Debug/net7.0/ref/task_manager.dll
